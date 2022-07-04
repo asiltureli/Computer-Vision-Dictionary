@@ -1,2 +1,4 @@
 # Computer-Vision-Dictionary  
-This repository contains the terms and topics of Computer Vision as a dictionary. It gets updated constantly, every time I face something new
+This repository contains the terms and topics of Computer Vision as a dictionary. It gets updated constantly, every time I face something new  
+
+https://github.com/asiltureli/Computer-Vision-Dictionary/wiki
